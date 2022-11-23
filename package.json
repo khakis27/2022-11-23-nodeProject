@@ -1,0 +1,20 @@
+{
+  "name": "2022-11-23-nodeproject",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khakis27/2022-11-23-nodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khakis27/2022-11-23-nodeProject/issues"
+  },
+  "homepage": "https://github.com/khakis27/2022-11-23-nodeProject#readme"
+}
